@@ -21,7 +21,7 @@ related:
 
 The **FortiOS** {% term integration %} connects Home Assistant to your [Fortinet](https://www.fortinet.com) FortiGate firewall. It tracks devices connected to your network and monitors the performance of your firewall, giving you presence detection and system health information all in one place.
 
-The integration has been verified on FortiGate appliances and FortiGate VM running FortiOS 6.4.x, 7.0.x, and 7.2.x. The minimum supported version is FortiOS 6.4.3.
+The integration has been verified on FortiGate appliances and FortiGate VM running FortiOS 6.4.x/7.0.x/7.2.x/7.4.x/7.6.x/8.0.x. The minimum supported version is FortiOS 6.4.3.
 
 ## Prerequisites
 

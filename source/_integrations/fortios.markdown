@@ -30,7 +30,7 @@ Before adding the integration, you need to create an API access token on your Fo
 1. Log in to your FortiGate web interface.
 2. Go to **System** > **Administrators**.
 3. Select **Create New** > **REST API Admin**.
-4. Give the account a name, for example, **home-assistant**.
+4. Give the account a name, for example, **Home Assistant**.
 5. Under **Trusted Hosts**, enter the IP address of your Home Assistant instance to restrict access.
 6. For **Administrator Profile**, assign a read-only profile. The integration only needs read access.
 7. Select **OK**. Copy and save the generated API token, as it is only shown once.
